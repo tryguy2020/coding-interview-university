@@ -1,4 +1,4 @@
-## Programming Language Resources df
+## Programming Language Resources
 
 - C
     - [ANSI C Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
